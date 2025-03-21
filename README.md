@@ -21,5 +21,7 @@ LESF-MV is one of the laboratories designated in Brazil by INMETRO (official nat
 
 Many of the developed codes are adjusted using AI, including ChatGPT. We encourage the use of AI for learning and studying the codes, as long as students incorporate their own ideas.
 
-<img width="487" alt="Captura de Tela 2025-03-21 às 09 34 00" src="https://github.com/user-attachments/assets/19cf689c-5fa1-489f-9a02-fb8cc55e7565" />
+<div align="center">
+  <img width="487" alt="Captura de Tela 2025-03-21 às 09 34 00" src="https://github.com/user-attachments/assets/19cf689c-5fa1-489f-9a02-fb8cc55e7565" />
+</div>
 
