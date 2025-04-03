@@ -4,6 +4,8 @@ Hello, this is the repository of codes presented in the discipline IT306 - Photo
 
 The course is part of the postgraduate program (Masters and Doctorate) of FEEC-UNICAMP. This is the 2025 version of the repository which may be updated.
 
+Collaborating Students: Mr. João Frederico
+
 ## We are Members of LESF-MV:
 
 LESF-MV – Energy and Photovoltaic Systems Laboratory – Marcelo Villalva is a research laboratory linked to the Faculty of Electrical and Computer Engineering at UNICAMP. We have a team of around 20 researchers at master's, doctoral (PhD) and post-doctoral levels.
